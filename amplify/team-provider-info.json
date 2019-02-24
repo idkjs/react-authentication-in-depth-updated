@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "reactauthenticationi-20190224170606-authRole",
+            "UnauthRoleArn": "arn:aws:iam::073051392232:role/reactauthenticationi-20190224170606-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::073051392232:role/reactauthenticationi-20190224170606-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "reactauthenticationi-20190224170606-deployment",
+            "UnauthRoleName": "reactauthenticationi-20190224170606-unauthRole",
+            "StackName": "reactauthenticationi-20190224170606",
+            "StackId": "arn:aws:cloudformation:eu-west-1:073051392232:stack/reactauthenticationi-20190224170606/1780c3b0-384e-11e9-8a7e-0233b49b0800"
+        },
+        "categories": {
+            "auth": {
+                "cognito765fd5db": {}
+            }
+        }
+    }
+}
